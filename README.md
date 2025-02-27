@@ -16,6 +16,7 @@ Recipe 3 - Bypassing validations on triggers
 - Good Implementation: Bypassing-validations-on-triggers-(Good-Implementation)
 
 Notes:
+
 Recipe 1 and 2: The order in which triggers execute cannot be guaranteed, leading to potential behavioral variations across environments.
 
 Recipe 3: We need to add a manual step in the process. This step should execute a custom action, and this custom action should use the ApplyDiscount class.
