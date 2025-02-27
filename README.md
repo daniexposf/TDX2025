@@ -2,6 +2,7 @@
 TDX 2025 - Good Apex Programming Recipes for an Agentic World
 
 For each of our three recipes, we have created two branches: one with a good implementation and one with a bad implementation:
+
 Recipe 1 - One Object - Multiple Triggers
 - Bad Implementation: One-Object,-Multiple-Triggers-(Bad-Implentation)
 - Good Implementation: One-Object,-Multiple-Triggers-(Good-Implentation)
