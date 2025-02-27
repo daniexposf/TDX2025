@@ -22,5 +22,6 @@ Recipe 1 and 2: The order in which triggers execute cannot be guaranteed, leadin
 Recipe 3: We need to add a manual step in the process. This step should execute a custom action, and this custom action should use the ApplyDiscount class.
 
 Trailhead Project: https://trailhead.salesforce.com/content/learn/projects/quick-start-einstein-copilot?trail_id=drive-productivity-with-einstein-ai
+
 Salesforce Documentation: https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_triggers.htm
 
